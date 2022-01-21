@@ -6,6 +6,7 @@
 
 ## Description
 
+![Screenshot](/public/img/0.jpg)
 This program allows users to track money flow online and offline.
 
 ## How to install
